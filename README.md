@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Chat system backend
 
 This repository contains code of a learning project called: "Chat system".
